@@ -18,8 +18,8 @@ title: "WeaponPaints (Skins)"
 | ------------ | ----------- |
 | `!wp`        | Refresh skins, if you have selected other skins by our [website](https://skins.fsho.st) |
 | `!ws`        | Shows which commands are available in-game for weaponpaints. |
-| `!knife`     | Show menu with knives (You can select other knife skin) |
-| `!gloves`    | Show menu with gloves (You can select other gloves skin) |
+| `!ножи`     | Show menu with knives (You can select other knife skin) |
+| `!перчатки`    | Show menu with gloves (You can select other gloves skin) |
 | `!agents`    | Show menu with agents (You can select other agents skin) |
 | `!pins`      | Show menu with pins (You can select other pins) |
 | `!music`     | Show menu with music (You can select other music) |
